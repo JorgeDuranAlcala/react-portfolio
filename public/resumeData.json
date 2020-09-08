@@ -1,40 +1,40 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
-    "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
+    "name": "Jorge Duran",
+    "occupation": "ReactJS Developer && ",
+    "description": "Full Stack Web Developer, Freelancer ",
+    "image": "IG_Jorge.jpg",
+    "bio": "My name is Jorge, I'm a Full Stack ReactJS Developer. this my passion since I got my first job wich I worked as a React Developer I'm in love with freelancing and I'd love to continue doing it for a long time. I'm still studying at university, My philosophy is to learn something new every day",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "email": "jorgeluis21.duran@gmail.com",
+    "phone": "+58 26 655 1701",
     "address": {
-      "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
-      "zip": "ABC 123"
+      "street": "4650 Carabobo street",
+      "city": "Barquisimeto",
+      "state": "Venezuela",
+      "zip": "3050"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload": "http://timbakerdev.com",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/profile.php?id=100029561295047",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/jorge-duran-80631b160/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/iamjorgeluiiss/?hl=es-la",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "https://github.com/JorgeDuranAlcala",
         "className": "fa fa-github"
       }
     ]
@@ -43,84 +43,72 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
-        "description": "Graduated with Distinction"
+        "school": "UNEFA University",
+        "degree": "Engineer of Systems",
+        "graduated": "2024",
+        "description": "Still in progress"
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
+        "company": "Uma Krishnam Team",
         "title": "Team Member && React Specialist",
-        "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
-      },
-      {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
+        "years": "july 2020 - Present",
+        "description": "Develop UI React Components"
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "100%",
+        "color": "linear-gradient(90deg,#11d7f1,#19f5c5)"
       },
       {
         "name": "CSS",
-        "level": "95%"
+        "level": "95%",
+        "color": "linear-gradient(90deg,#084be6,#0bd7fb)"
       },
       {
         "name": "Git",
-        "level": "60%"
+        "level": "60%",
+        "color": "#000"
       },
       {
         "name": "Figma && Adobe XD",
-        "level": "55%"
+        "level": "25%",
+        "color": "linear-gradient(270deg,#f95607,#0575e6)"
       },
       {
         "name": "HTML5",
-        "level": "80%"
+        "level": "85%",
+        "color": "linear-gradient(90deg,#f12711,#f5af19)"
       },
       {
-        "name": "MongoDB",
-        "level": "80%"
+        "name": "Express && NodeJS",
+        "level": "80%",
+        "color": "linear-gradient(270deg,#00f260,#0575e6)"
+      },
+      {
+        "name": "PHP",
+        "level": "65%",
+        "color": "linear-gradient(270deg,#f0c,#339)"
       }
+
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+        "title": "Covid-19 Tracker",
+        "category": "Covid-19 App using React and Consuming an Covid-19 API",
+        "image": "covid19-logo.jpg",
+        "url": "https://covid19-tracker-by-jorde-duran.netlify.app/"
       },
       {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
-      },
-      {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
-      },
-      {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
-      },
-      {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "title": "Google Translator Clone",
+        "category": "A google Translator clone builded with vanilla Javascript and NodeJs using Google-translator-API",
+        "image": "google-browser-on-screen.jpg",
+        "url": "https://google-translator-clone.herokuapp.com/"
       }
     ]
   },

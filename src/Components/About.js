@@ -16,6 +16,7 @@ class About extends Component {
       var resumeDownload = this.props.data.resumedownload;
     }
 
+
     return (
       <section id="about">
       <div className="row">

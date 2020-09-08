@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { Fade } from 'react-reveal';
 
 class Header extends Component {
   render() {
@@ -34,12 +35,22 @@ class Header extends Component {
 
       <div className="row banner">
          <div className="banner-text">
-            <h1 className="responsive-headline">I'm {name}.</h1>
-            <h3>I'm a {city} based <span>{occupation}</span>. {description}.</h3>
+           { name && <Fade top>
+               <h1 className="responsive-headline">I'm {name}.</h1>
+            </Fade>}
+            {
+               city && description && occupation && <Fade down>
+                   <h3>I'm a {city} based <span>{occupation}</span>. {description}.</h3>
+               </Fade>
+            }
             <hr />
-            <ul className="social">
-               {networks}
-            </ul>
+            {
+               networks && <Fade left>
+                  <ul className="social">
+                     {networks}
+                  </ul>
+               </Fade>
+            }
          </div>
       </div>
 
